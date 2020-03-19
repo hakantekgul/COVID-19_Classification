@@ -9,6 +9,9 @@ python3 predict.py
 
 After that, simply enter the path of the X-Ray image. You should see the image itself with the result of prediction. 
 
+Example:
+![Example Positive Output](https://github.com/hakantekgul/COVID-19_Classification/blob/master/example_output.png)
+
 --> The jupyter notebook given above trains the model with Keras and Tensorflow. COVID-19 positive images are taken from an open source dataset, and healthy images are taken from a Kaggle dataset. 
 
 
